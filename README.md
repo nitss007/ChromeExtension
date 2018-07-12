@@ -10,4 +10,4 @@ Extension files are zipped into a single .crx package that the user downloads an
 
 Extensions are distributed through the Chrome Developer Dashboard and published to the Chrome Web Store. For more information, see the store developer documentation.
 
-
+Ref: https://developer.chrome.com/extensions
